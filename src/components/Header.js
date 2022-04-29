@@ -20,6 +20,9 @@ const Header = () => {
               <Nav.Link className="nav-Link">
                 <Link to="/">User List</Link>
               </Nav.Link>
+              <Nav.Link className="nav-Link">
+                <Link to="/login">Login</Link>
+              </Nav.Link>
             </Nav>
           </Navbar.Collapse>
         </Container>

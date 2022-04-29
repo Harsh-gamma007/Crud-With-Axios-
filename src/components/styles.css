@@ -1,0 +1,20 @@
+.wrapper {
+    padding: 20px;
+}
+
+.login-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.offscreen {
+    position: absolute;
+    left: -9999px;
+}
+.errmsg {
+    background-color: lightpink;
+    color: firebrick;
+    font-weight: bold;
+    padding: 0.5rem;
+    margin-bottom: 0.5rem;
+}

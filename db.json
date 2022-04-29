@@ -2,12 +2,6 @@
   "users": [
     {
       "name": "Potter",
-      "email": "hjain@grepruby.io",
-      "phone": 9999999999,
-      "id": 6
-    },
-    {
-      "name": "Potter",
       "email": "harsh@gmail.com",
       "phone": 9999999999,
       "id": 7

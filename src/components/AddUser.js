@@ -61,7 +61,7 @@ const AddUser = () => {
   }
   const addUsers = async (data) => {
     try {
-      var result = await Axios.post('http://localhost:3003/users', data)
+      var result = await Axios.post('/users', data)
       await setUser(result.data)
       // console.log(users)
     } catch (error) {
